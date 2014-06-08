@@ -79,7 +79,7 @@
 								<a href="#">About Helpout</a>
 							</li>
 							<li>
-								<a href="#"><span class="btn btn-primary btn-sm btn-success">Give your helpout</span></a>
+								<a href="#"><span class="btn btn-primary btn-sm btn-success">Give your helpouts</span></a>
 							</li>
 							<li>
 								<a href="#" data-toggle="dropdown"> <span class="glyphicon glyphicon-question-sign "></span></a>
